@@ -1,6 +1,8 @@
 # Space-Invaders
 Space Invaders game made in JavaScript (UofT CSC309H1 - Programming on the Web)
 
+![alt tag](https://raw.githubusercontent.com/jlgm/Space-Invaders/master/game.png)
+
 OUTLINE:
 1) IMAGES AND SCREENS
 - The images and welcome/goodbye screens are stored in objects. This way, they are easily accessible when needed
